@@ -1,0 +1,12 @@
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\ResolveAssemblyReference.cache
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.Dashboard_Form.resources
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.Login_Form.resources
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.vbproj.GenerateResource.Cache
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\bin\Debug\Heart_Disease.exe
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\bin\Debug\Heart_Disease.pdb
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\bin\Debug\Heart_Disease.xml
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.Resources.resources
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.exe
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.xml
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.pdb
+D:\Optimus Project\dotnet project\Heart_Disease\Heart_Disease\obj\Debug\Heart_Disease.New_Sample.resources
